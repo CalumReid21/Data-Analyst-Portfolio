@@ -1,6 +1,6 @@
 SQL Project — Gym Performance Analysis
 
-This folder contains three SQL projects built from my own gym training data.
+This folder contains four SQL projects built from my own gym training data.
 Each script demonstrates practical data cleaning and exploratory analysis skills — showing how I structure, transform, and analyse real-world data using SQL.
 
 ⸻
@@ -43,6 +43,20 @@ Output: Data Analysis 2 csv
 
 ⸻
 
+3. Exploratory Analysis 2 — Longest Streak 
+
+Goal:
+Identify my longest consecutive streak of workouts, by date. In addition, identify the start and end dates of this streak.
+
+Key Techniques:
+	•	Window Functions
+	•	Complex multi CTE logic
+	•	Conditional logic with CASE WHEN
+	•	Date handling
+
+Output: Data Analysis 3 csv
+
+⸻
 Overview
 
 Together, these projects demonstrate:
