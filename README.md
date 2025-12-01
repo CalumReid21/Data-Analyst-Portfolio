@@ -47,7 +47,7 @@ Output: Data Analysis 2 csv
 
 ⸻
 
-3. Exploratory Analysis 2 — Longest Streak 
+4. Exploratory Analysis 3 — Longest Streak 
 
 Goal:
 Identify my longest consecutive streak of workouts, by date. In addition, identify the start and end dates of this streak.
