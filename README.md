@@ -3,6 +3,10 @@ SQL Project — Gym Performance Analysis
 This folder contains four SQL projects built from my own gym training data.
 Each script demonstrates practical data cleaning and exploratory analysis skills — showing how I structure, transform, and analyse real-world data using SQL.
 
+Recommended: Data Analysis 3 provides my best example of production grade SQL, producing a gap and island analysis to identify my longest streak of workout attendances.
+
+NOTE: AI has not been uses to write any of the code displayed in this repository. All examples of my technical skills have been written freehand without syntax lookup or additional assitance.
+
 ⸻
 
 1. Data Cleaning
